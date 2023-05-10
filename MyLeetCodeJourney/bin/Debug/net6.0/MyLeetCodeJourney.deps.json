@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyLeetCodeJourney/1.0.0": {
+        "runtime": {
+          "MyLeetCodeJourney.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLeetCodeJourney/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
