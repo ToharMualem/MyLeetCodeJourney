@@ -5,3 +5,6 @@ NumberTextualRepresentation textualRepresentation = new NumberTextualRepresentat
 Console.WriteLine(textualRepresentation.NumberToString(1123));
 Console.WriteLine(textualRepresentation.NumberToString(10000));
 Console.WriteLine(textualRepresentation.NumberToString(23));
+
+
+MaximumAverageSubarrayI maximumAverageSubarrayI = new MaximumAverageSubarrayI();
